@@ -174,13 +174,13 @@ hr {
     z-index: 99;
     position: absolute;
     bottom: 15%;
-    width: 40%;
+    width: 450px;
 }
 
 .headline>p {
     font-family: Helvetica, sans-serif;
     padding: 40px;
-    width: 81%;
+    width: 300px;
     font-weight: 500;
     font-size: 14px;
 }
@@ -248,7 +248,7 @@ hr {
     text-align: left;
     top: 150px;
     position: absolute;
-    width: 45%;
+    width: 350px;
     right: 20px;
     padding: 20px;
 }
@@ -300,7 +300,7 @@ hr {
 .feature-img {
     top: 20%;
     left: 0;
-    width: 40%;
+    width: 200px;
     position: absolute;
 }
 
