@@ -282,7 +282,7 @@ hr {
 
 .feature-parent {
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 500px 500px;
     padding: 10px;
 }
 
@@ -293,7 +293,7 @@ hr {
 
 .feature-bg {
     position: relative;
-    width: 90%;
+    width: 400px;
     margin: 0 0 0 15%;
 }
 
@@ -356,8 +356,6 @@ hr {
     position: absolute;
     top: 90px;
 }
-
-
 
 /* =============================================================================================== */
 /* PAGE 5 */
