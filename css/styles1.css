@@ -291,6 +291,43 @@ hr {
     padding: 40px;
 }
 
+.feature1-vector {
+    position: absolute;
+    top: 10%;
+    right: 10%;
+}
+
+.feature1-ellipse {
+    position: absolute;
+    top: 18%;
+    right: 30%;
+}
+
+.feature2-vector {
+    position: absolute;
+    bottom: 0%;
+    right: 10%;
+}
+
+.feature3-ellipse {
+    position: absolute;
+    top: 15%;
+    right: 15%;
+}
+
+.feature4-ellipse {
+    position: absolute;
+    bottom: 15%;
+    right: 15%;
+}
+
+.feature4-vector {
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    
+}
+
 .feature-bg {
     position: relative;
     width: 400px;
@@ -298,28 +335,28 @@ hr {
 }
 
 .feature-img {
-    top: 20%;
-    left: 0;
-    width: 200px;
+    top: 35%;
+    left: 5%;
+    width: 150px;
     position: absolute;
 }
 
 .feature-content {
     text-align: left;
     position: absolute;
-    left: 47%;
+    left: 40%;
     top: 0%;
     bottom: 0;
     margin: auto 0;
-    width: 46%;
-    height: 65%;
+    width: 200px;
+    height: 55%;
     color: #212353;
     font-size: 1.5rem;
     font-weight: 600;
 }
 
 .feature-content>p {
-    padding: 10% 0;
+    padding: 10px 0;
 }
 
 .learn-more-mute {
